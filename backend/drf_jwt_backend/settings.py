@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'event',
     'venue',
     'veteran_user',
+    'veteran_organizer',
     'cars.apps.CarsConfig'  # This app is for example use only
 ]
 
